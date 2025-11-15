@@ -1,6 +1,7 @@
-age =input("Enter Your age :")
+age =int(input("Enter Your age :"))
 
 if age >= 18:
-print("Wewe Ni Mzee")
+    print("Wewe Ni Mzee")
 else:
-print("Wewe Ni Mtoto")
+    print("Wewe Ni Mtoto")
+ 
